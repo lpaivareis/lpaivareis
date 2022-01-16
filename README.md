@@ -3,12 +3,18 @@
 Hello my name is Lucas Felipe, I'm a software developer.
 
 #### Languages and Skils
-  * Ruby
-  * Ruby on Rails 
-  * Javascript
-  * Postgres
-  * HTML
-  * CSS
+  * Ruby <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"></code>
+  
+  * Ruby on Rails <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"></code>
+  
+  * Javascript <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
+  
+  * Postgres <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></code>
+  
+  * HTML <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>
+  
+  * CSS <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+
 
 ![Alt Text](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
