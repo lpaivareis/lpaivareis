@@ -10,4 +10,6 @@ Hello my name is Lucas Felipe, I'm a software developer.
   * HTML <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   * CSS <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-![Alt Text](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" />
+</p>
