@@ -1,4 +1,14 @@
-### Olá
+### Hey there 👋
+
+Hello my name is Lucas Felipe, I'm a software developer.
+
+#### Languages and Skils
+  * Ruby [![texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg)]
+  * Ruby on Rails  [![texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg)]
+  * Javascript [![texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)]
+  * Postgres [![texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg)]
+  * HTML [![texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg)]
+  * CSS [![texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)]
 
 ![Alt Text](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
