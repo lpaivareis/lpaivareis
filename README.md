@@ -3,7 +3,7 @@
 Hello my name is Lucas Felipe, I'm a software developer.
 
 #### Languages and Skils
-  * Ruby <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"></code>
+  * Ruby <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   
   * Ruby on Rails <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"></code>
   
