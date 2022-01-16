@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
+
 <!--
 **lpaivareis/lpaivareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
