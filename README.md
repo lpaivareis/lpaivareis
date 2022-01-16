@@ -3,7 +3,7 @@
 Hello my name is Lucas Felipe, I'm a software developer.
 
 <p align="center">
-  <img width="500" height="250" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
+  <img width="500" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
 </p>
 
 #### Languages and skils
