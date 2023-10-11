@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 Hello my name is Lucas Felipe, I'm a software developer.
-I'm passionate about technology, currently focused on Ruby on Rails, while keeping a close eye on new technologies and languages.
+I'm passionate about technology, currently focused on Ruby on Rails, but I keeping a close eye on new technologies and languages.
 
 <p align="center">
   <img width="300" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
